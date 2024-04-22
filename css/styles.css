@@ -352,6 +352,5 @@ img {
 .container-content {
   display: flex;
   flex-direction: column;
-  align-content: right;
   justify-content: center;
 }
