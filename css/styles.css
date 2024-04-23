@@ -51,8 +51,8 @@ img {
 
 .container {
   max-width: 1158px;
-  padding-left: 16px;
-  padding-right: 16px;
+  padding-left: 15px;
+  padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -205,7 +205,7 @@ img {
   text-transform: capitalize;
 }
 
-.visually-hidden {
+.benefits-container > .title-two {
   visibility: hidden;
 }
 
@@ -320,7 +320,7 @@ img {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
-  padding: 32px 16px;
+  padding: 32px 15px;
   width: 360px;
   height: 120px;
 }
